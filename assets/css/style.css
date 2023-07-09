@@ -1159,3 +1159,10 @@ p {
   text-align: justify;
   text-justify: inter-word;
 }
+
+#skills .container .row img {
+  
+  width: 90px;
+  height: 90px;
+  
+}
